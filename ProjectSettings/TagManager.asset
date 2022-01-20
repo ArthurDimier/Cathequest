@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerAvatar
+  - cle_cathedrale
+  - text
+  - fondu_noir
+  - nom_item
+  - description_item
+  - image_item
+  - item_group
+  - inventory_interface
+  - pick_item_sound
+  - musique_slider
+  - bruitage_slider
+  - text_test_musique
+  - text_test_bruitage
+  - test_bruitage
+  - test_musique
+  - text_input_Interaction
+  - text_input_Inventory
+  - text_input_Forward
+  - text_input_Backward
+  - text_input_Right
+  - text_input_Left
+  - option_interface
+  - input_field_interaction
+  - input_field_inventory
+  - input_field_forward
+  - input_field_backward
+  - input_field_left
+  - input_field_right
+  - game_manager
+  - sensi_slider
+  - langage_dropdown
+  - canvas_pick_item
+  - inventory_key
+  - inventory_objet
+  - inventory_journaux
+  - passage_secret
+  - congratulations_sound
+  - textEsoterique
+  - NPCAvatar
+  - barriere_statue_1
+  - barriere_statue_2
+  - barriere_statue_3
+  - barriere_statue_4
+  - tonneau_1
+  - tonneau_2
+  - tonneau_3
+  - tonneau_4
+  - tonneau_5
+  - tonneau_6
+  - couvercle
+  - journal_1
+  - cle_coffre
+  - dialogue_interface
+  - texte_dialogue
+  - nom_dialogue
+  - texte_dialogue_panel
+  - nom_dialogue_panel
+  - StatueOuest
+  - NPC
+  - musique
+  - journal_interface
+  - texte_enigme
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

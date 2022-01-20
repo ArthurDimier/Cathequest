@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UnityLP\n"
+"POT-Creation-Date: 2020-03-10 10:37+0100\n"
+"PO-Revision-Date: 2020-03-10 10:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: lucas.grospart@gmail.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"_translate_nooped_plural;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;number_format_i18n;date_i18n\n"
+
+msgid "Jouer"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Inventaire"
+msgstr ""
+
+msgid "Clefs"
+msgstr ""
+
+msgid "Objets"
+msgstr ""
+
+msgid "Journaux"
+msgstr ""
+
+msgid "Musique"
+msgstr ""
+
+msgid "Bruitage"
+msgstr ""
+
+msgid "Sensibilité"
+msgstr ""
+
+msgid "Langage"
+msgstr ""
+
+msgid "Interaction"
+msgstr ""
+
+msgid "Avant"
+msgstr ""
+
+msgid "Droite"
+msgstr ""
+
+msgid "Gauche"
+msgstr ""
+
+msgid "Clef de la cathédrale"
+msgstr ""
+
+msgid "La clef pour ouvrir la cathédrale"
+msgstr ""
+
+msgid "Journal"
+msgstr ""
+
+msgid "Un journal"
+msgstr ""
+
+msgid "Journal du père Jérôme"
+msgstr ""
+
+msgid "Clef de coffre"
+msgstr ""
+
+msgid "On dirait une clef de coffre"
+msgstr ""
+
+msgid "Prendre"
+msgstr ""
+
+msgid "Arrière"
+msgstr ""
+
+msgid "Retour"
+msgstr ""
+
+msgid "Quitter"
+msgstr ""
+
+msgid "Bien le bonjour archonte."
+msgstr ""
+
+msgid "Bienvenue dans l’antre de Dieu mon enfant. Je suppose que vous êtes l’historien ?"
+msgstr ""
+
+msgid "C’est bien moi effectivement, merci beaucoup de me permettre d’explorer la cathédrale comme bon me semble."
+msgstr ""
+
+msgid "Je vous en prie, c’est plutôt vous qui nous rendez un service si vous arrivez à retrouver cette épée. L’épée de la Pucelle, jamais je n’aurais cru la trouver de mon vivant."
+msgstr ""
+
+msgid "Ah, ne criez pas victoire trop vite archonte, nous n’avons pour l’instant qu’une maigre piste et la route semble être semée d’embûches."
+msgstr ""
+
+msgid "Certes, certes mon enfant, mais je ne peux m’empêcher d’avoir un bon pressentiment sur cette affaire. Le Seigneur est avec vous, je le sens."
+msgstr ""
+
+msgid "Espérons que votre intuition soit avérée alors… Avez-vous pu examiner la cathédrale et trouver ce que pourrait ouvrir cette clé ?"
+msgstr ""
+
+msgid "Oui, nous avons effectivement trouvé une serrure sur le coffret doré tout au fond de la cathédrale. Venez je vais vous y conduire."
+msgstr ""
+
+msgid "Wouah… vous avez entendu ça ?"
+msgstr ""
+
+msgid "Oui, on aurait dit que toute la cathédrale s’était mise en branle !"
+msgstr ""
+
+msgid "On dirait que ce père Jérôme était un sacré ingénieur…"
+msgstr ""
+
+msgid "Non, je pense juste qu’il connaissait les secrets de la cathédrale comme personne… regardez ! Un autre journal !"
+msgstr ""
+
+msgid "À Ephèse ? En Turquie ? Bon sang ! Moi qui pensait toucher au but !"
+msgstr ""
+
+msgid "Attendez mon enfant, ne vous emportez pas. Il a aussi fait mention de Saint-Paul prêchant à Ephèse : c’est exactement ce que dépeint le tableau d’Eustache Le Sueur que nous avons dans la cathédrale !"
+msgstr ""
+
+msgid "Il n’a jamais changé de place en 50 ans de service ici, avec un peu de chance il n’a pas bougé depuis le père Jérôme. Eurêka ! Regardez, des signes étranges sont apparus !"
+msgstr ""
+
+msgid "Parfait, voyons cette première épreuve…"
+msgstr ""
+
+msgid "On dirait qu’une porte dérobée s’est ouverte dans le mur, allons voir où elle mène."
+msgstr ""
+
+msgid "Cette statuette… je crois l’avoir déjà vue dans les archives de la cathédrale, tout le monde est à sa recherche depuis des décennies !"
+msgstr ""
+
+msgid "Et alors ? Vous pensez savoir quoi en faire ?"
+msgstr ""
+
+msgid "Si je me souviens bien il y a une statuette semblable dans la cathédrale. Peut-être que les deux ont un lien ? Remontons et allons voir."
+msgstr ""
+
+msgid "Et bien il semblerait que cette statuette soit à sa place ici."
+msgstr ""
+
+msgid "Oui et la suite de ces épreuves se trouve autour des deux statues qui sont là bas. Approchons nous pour voir ça de plus près."
+msgstr ""
+
+msgid "C’est bon ! J’ai entendu quelque chose se déplacer près de l’autel !"
+msgstr ""
+
+msgid "On y va ! Si les journaux disent vrai, nous avons retrouvé l’épée de Jeanne d’Arc."
+msgstr ""
+
+msgid "Regardez ! Un passage ! L’épée doit être là dessous."
+msgstr ""
+
+msgid "Elle est là… enfin."
+msgstr ""
+
+msgid "C’est...incroyable. Même quand j’ai reçu votre appel, je ne croyais pas du tout que nous la trouverions réellement...sans vouloir vous offenser."
+msgstr ""
+
+msgid "Aucun problème archonte. Après cette découverte, je vais moi aussi pouvoir graver mon nom dans l’histoire."
+msgstr ""
+
+msgid "Tu t'es trompé ! Réinitialisation du système d'ouverture des portes."
+msgstr ""
+
+msgid "Bravo !"
+msgstr ""
+
+msgid "Vous ne possédez pas la clef adéquate pour ouvrir la porte !"
+msgstr ""
+
+msgid "Ouvrir la porte"
+msgstr ""
+
+msgid "Interagir"
+msgstr ""
+
+msgid "Un journal que j'ai trouvé dans les appartements du père Jérôme"
+msgstr ""
+
+msgid "À toi qui lis ce journal et qui que tu sois : prie pour mon âme. Aujourd’hui à eu lieu l’exécution de Dame Jeanne et j’ai été témoin de cette infamie. Bien qu’elle ait été jugée et reconnue coupable d’hérésie, elle est restée digne jusqu’à la fin et pris de remords, ne pouvant laisser ses possessions revenir à des mécréants, j’ai décidé de m’enfuir avec son épée sacrée. J’ai fait route jusqu’à la cathédrale Sainte-Croix et ait utilisé ses secrets pour la dissimulé aux yeux du monde, avant de partir loin. J’ignore encore où ma route s’arrêtera mais si quelqu’un voulait un jour retrouver cette épée, sache que seuls les plus malins et les plus audacieux pourront avoir une chance, je m’en suis assuré. La clé que j’ai avec moi marque le début des épreuves."
+msgstr ""
+
+msgid "Journal de l'autel"
+msgstr ""
+
+msgid "Le journal trouvé près de l'autel."
+msgstr ""
+
+msgid "À toi qui lis ce journal et qui que tu sois : tu as terminé toutes les épreuves de l’épée de Jeanne d’Arc. Cet artefact légendaire est désormais tient, fait en bon usage et honore la mémoire de sa noble détentrice originelle."
+msgstr ""
+
+msgid "Journal de la statue"
+msgstr ""
+
+msgid "Le journal trouvé près de la statue."
+msgstr ""
+
+msgid "À toi qui lis ce journal et qui que tu sois : tu as trouvé la troisième épreuve de l’épée de Jeanne d’Arc. Les barrières qui mènent à la dernière épreuve se sont abaissées. Tu devras maintenant prouver ta capacité d’analyse et trouver le lien entre les deux statues."
+msgstr ""
+
+msgid "Journal de la salle secrète"
+msgstr ""
+
+msgid "Le journal trouvé dans la salle secrète."
+msgstr ""
+
+msgid "À toi qui lis ce journal et qui que tu sois : tu as trouvé la deuxième épreuve de l’épée de Jeanne d’Arc. Félicitations pour avoir prouvé ton esprit de déduction avec l'énigme précédente. Cette énigme-ci servira à prouver ton esprit logique : deux tonneaux adjacents ne peuvent être de la même couleur."
+msgstr ""
+
+msgid "Statue de l'ange"
+msgstr ""
+
+msgid "Une statue d'ange."
+msgstr ""
+
+msgid "Parler"
+msgstr ""
+
+msgid "Ouvrir"
+msgstr ""
+
+msgid "Journal du coffre"
+msgstr ""
+
+msgid "Le journal trouvé dans le coffre."
+msgstr ""
+
+msgid "À toi qui lis ce journal et qui que tu sois : tu as trouvé la première épreuve de l’épée de Jeanne d’Arc. Je l’ai cachée au sein de cette cathédrale, à l’abri du regard des hérétiques pour que jamais elle ne tombe entre de mauvaises mains. Ces épreuves serviront à prouver ta foi. La suite se trouve à Ephèse, où Saint-Paul prêcha la gloire du Seigneur. L’ordre est la clé."
+msgstr ""
+
+msgid "Une statue d'ange. Elle est la clé d'une énigme."
+msgstr ""
+
+msgid "Le journal trouvé proche de l'autel."
+msgstr ""
+
+msgid "La cathédrale Sainte-Croix d’Orléans."
+msgstr ""
+
+msgid "Billy Storien"
+msgstr ""
+
+msgid "CATHEQUEST"
+msgstr ""
+
+msgid "Après des mois de recherches, j’avais enfin découvert que c’était bien ici que se cachait un artefact inestimable pour n’importe quel historien, dissimulé de tous : l’épée de Jeanne d’Arc."
+msgstr ""
+
+msgid "On raconte qu’elle a été bénie par Dieu lui-même, mais moi je m’en fichais. Je voulais juste retrouver cet objet mythique pour la renommée."
+msgstr ""
+
+msgid "Surtout après tous les efforts décuplés pour la retrouver : originaire de cette ville, les histoires sur La Pucelle m’avait toujours fasciné."
+msgstr ""
+
+msgid "Une fois devenu docteur en histoire, j’avais pu réunir les fonds nécessaires pour ma première expédition et retrouver cet artefact que je poursuivai depuis ma tendre enfance."
+msgstr ""
+
+msgid "Mes recherches m’avaient mené aux quatre coins de la France et c’est dans une église d’un petit village que j’avais retrouvé le journal du père Jérôme Bizot ayant assisté à l’exécution de Jeanne d’Arc."
+msgstr ""
+
+msgid "Celui-ci avait ensuite caché l’épée de Jeanne d’Arc dans la cathédrale avant de s’exiler d’Orléans. J’avais aussi récupéré une clef dans les affaires du père Jérôme qui devait me mener à l’épée."
+msgstr ""
+
+msgid "Pour mener tranquillement mon enquête, j’avais réussi à avoir une clef de l’entrée de la cathédrale pour y aller hors de heures d’ouverture."
+msgstr ""
+
+msgid "Archonte Alexandre"
+msgstr ""
+
+msgid "(Espace) pour passer"
+msgstr ""
+
+msgid "L'épée de Jeanne"
+msgstr ""
+
+msgid "L'épée de Jeanne d'Arc"
+msgstr ""

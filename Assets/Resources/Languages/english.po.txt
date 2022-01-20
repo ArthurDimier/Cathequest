@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UnityLP\n"
+"POT-Creation-Date: 2020-03-10 10:37+0100\n"
+"PO-Revision-Date: 2020-04-02 23:25+0200\n"
+"Last-Translator: Lucas Grospart <lucas.grospart@gmail.com>\n"
+"Language-Team: lucas.grospart@gmail.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"_translate_nooped_plural;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;number_format_i18n;date_i18n\n"
+
+msgid "Jouer"
+msgstr "Play"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Inventaire"
+msgstr "Inventory"
+
+msgid "Clefs"
+msgstr "Keys"
+
+msgid "Objets"
+msgstr "Objects"
+
+msgid "Journaux"
+msgstr "Diaries"
+
+msgid "Musique"
+msgstr "Music"
+
+msgid "Bruitage"
+msgstr "Sound effects"
+
+msgid "Sensibilité"
+msgstr "Sensibility"
+
+msgid "Langage"
+msgstr "Language"
+
+msgid "Interaction"
+msgstr "Interaction"
+
+msgid "Avant"
+msgstr "Forward"
+
+msgid "Droite"
+msgstr "Right"
+
+msgid "Gauche"
+msgstr "Left"
+
+msgid "Clef de la cathédrale"
+msgstr "Key of the cathedral"
+
+msgid "La clef pour ouvrir la cathédrale"
+msgstr "The key to open the cathedral"
+
+msgid "Journal"
+msgstr "Diary"
+
+msgid "Un journal"
+msgstr "A diary"
+
+msgid "Journal du père Jérôme"
+msgstr "Diary of Father Jerome"
+
+msgid "Clef de coffre"
+msgstr "Chest key"
+
+msgid "On dirait une clef de coffre"
+msgstr "Looks like a chest key"
+
+msgid "Prendre"
+msgstr "Take"
+
+msgid "Arrière"
+msgstr "Backward"
+
+msgid "Retour"
+msgstr "Cancel"
+
+msgid "Quitter"
+msgstr "Leave"
+
+msgid "Bien le bonjour archonte."
+msgstr "Top of the morning to you archonte."
+
+msgid "Bienvenue dans l’antre de Dieu mon enfant. Je suppose que vous êtes l’historien ?"
+msgstr "Welcome in the house of God, my child. I suppose you are the historian?"
+
+msgid "C’est bien moi effectivement, merci beaucoup de me permettre d’explorer la cathédrale comme bon me semble."
+msgstr "It is me, indeed. Thank you very much for allowing me to explore the cathedral as I see fit."
+
+msgid "Je vous en prie, c’est plutôt vous qui nous rendez un service si vous arrivez à retrouver cette épée. L’épée de la Pucelle, jamais je n’aurais cru la trouver de mon vivant."
+msgstr "Please, you’re doing us a favor if you can find that sword. The Maid’s sword, I never thought I’d find it in my lifetime."
+
+msgid "Ah, ne criez pas victoire trop vite archonte, nous n’avons pour l’instant qu’une maigre piste et la route semble être semée d’embûches."
+msgstr "Don’t shout victory too fast archonte, we have for the moment only a thin track and the road seems to be full of pitfalls."
+
+msgid "Certes, certes mon enfant, mais je ne peux m’empêcher d’avoir un bon pressentiment sur cette affaire. Le Seigneur est avec vous, je le sens."
+msgstr "Certainly, my child, but I cannot help but have a good feeling about this matter. The Lord is with you, I feel."
+
+msgid "Espérons que votre intuition soit avérée alors… Avez-vous pu examiner la cathédrale et trouver ce que pourrait ouvrir cette clé ?"
+msgstr "Let’s hope your intuition is proven then… Have you been able to examine the cathedral and find out what this key might open?"
+
+msgid "Oui, nous avons effectivement trouvé une serrure sur le coffret doré tout au fond de la cathédrale. Venez je vais vous y conduire."
+msgstr "Yes, we did find a lock on the gold box at the very bottom of the cathedral. I’ll take you there."
+
+msgid "Wouah… vous avez entendu ça ?"
+msgstr "Wow… did you hear that?"
+
+msgid "Oui, on aurait dit que toute la cathédrale s’était mise en branle !"
+msgstr "Yes, it seemed like the whole cathedral had shaken!"
+
+msgid "On dirait que ce père Jérôme était un sacré ingénieur…"
+msgstr "It seems that Father Jerome was quite an engineer…"
+
+msgid "Non, je pense juste qu’il connaissait les secrets de la cathédrale comme personne… regardez ! Un autre journal !"
+msgstr "No, I just think he knew the secrets of the cathedral like no one else… look! Another diary!"
+
+msgid "À Ephèse ? En Turquie ? Bon sang ! Moi qui pensait toucher au but !"
+msgstr "In Ephesus? In Turkey? For God’s sake! I thought I’d get to the point!"
+
+msgid "Attendez mon enfant, ne vous emportez pas. Il a aussi fait mention de Saint-Paul prêchant à Ephèse : c’est exactement ce que dépeint le tableau d’Eustache Le Sueur que nous avons dans la cathédrale !"
+msgstr "Wait for my child, don’t get carried away. He also mentioned Saint Paul preaching in Ephesus: this is exactly what the painting of Eustace Le Sueur that we have in the cathedral depicts!"
+
+msgid "Il n’a jamais changé de place en 50 ans de service ici, avec un peu de chance il n’a pas bougé depuis le père Jérôme. Eurêka ! Regardez, des signes étranges sont apparus !"
+msgstr "He has never changed place in 50 years of service here, with a bit of luck he hasn’t moved since Father Jerome. Eureka! Look, strange signs have appeared!"
+
+msgid "Parfait, voyons cette première épreuve…"
+msgstr "Perfect, let’s look at this first test…"
+
+msgid "On dirait qu’une porte dérobée s’est ouverte dans le mur, allons voir où elle mène."
+msgstr "Looks like a back door opened in the wall, let’s see where it leads."
+
+msgid "Cette statuette… je crois l’avoir déjà vue dans les archives de la cathédrale, tout le monde est à sa recherche depuis des décennies !"
+msgstr "This statuette… I think I’ve seen it in the archives of the cathedral, everyone has been looking for it for decades!"
+
+msgid "Et alors ? Vous pensez savoir quoi en faire ?"
+msgstr "So what? You think you know what to do with it?"
+
+msgid "Si je me souviens bien il y a une statuette semblable dans la cathédrale. Peut-être que les deux ont un lien ? Remontons et allons voir."
+msgstr "If I remember correctly, there is a similar statue in the cathedral. Maybe they both have a connection? Let’s go up and see."
+
+msgid "Et bien il semblerait que cette statuette soit à sa place ici."
+msgstr "Well, it looks like this statue belongs here."
+
+msgid "Oui et la suite de ces épreuves se trouve autour des deux statues qui sont là bas. Approchons nous pour voir ça de plus près."
+msgstr "Yes, and the rest of these trials are around the two statues that are there. Let’s get closer to see that."
+
+msgid "C’est bon ! J’ai entendu quelque chose se déplacer près de l’autel !"
+msgstr "It’s okay! I heard something move by the altar!"
+
+msgid "On y va ! Si les journaux disent vrai, nous avons retrouvé l’épée de Jeanne d’Arc."
+msgstr "Let’s go! If the diaries are right, we found Joan of Arc’s sword."
+
+msgid "Regardez ! Un passage ! L’épée doit être là dessous."
+msgstr "Look! A passage! The sword must be under there."
+
+msgid "Elle est là… enfin."
+msgstr "There she is… finally."
+
+msgid "C’est...incroyable. Même quand j’ai reçu votre appel, je ne croyais pas du tout que nous la trouverions réellement...sans vouloir vous offenser."
+msgstr "It’s...incredible. Even when I got your call, I didn’t think we’d find it at all...with all due respect."
+
+msgid "Aucun problème archonte. Après cette découverte, je vais moi aussi pouvoir graver mon nom dans l’histoire."
+msgstr "No problem archonte. After this discovery, I too will be able to engrave my name in history."
+
+msgid "Tu t'es trompé ! Réinitialisation du système d'ouverture des portes."
+msgstr "You made a mistake! Reseting the door opening system."
+
+msgid "Bravo !"
+msgstr "Well done!"
+
+msgid "Vous ne possédez pas la clef adéquate pour ouvrir la porte !"
+msgstr "You don’t have the proper key to open the door!"
+
+msgid "Ouvrir la porte"
+msgstr "Open the door"
+
+msgid "Interagir"
+msgstr "Interact"
+
+msgid "Un journal que j'ai trouvé dans les appartements du père Jérôme"
+msgstr "A diary I found in Father Jerome’s apartments"
+
+msgid "À toi qui lis ce journal et qui que tu sois : prie pour mon âme. Aujourd’hui à eu lieu l’exécution de Dame Jeanne et j’ai été témoin de cette infamie. Bien qu’elle ait été jugée et reconnue coupable d’hérésie, elle est restée digne jusqu’à la fin et pris de remords, ne pouvant laisser ses possessions revenir à des mécréants, j’ai décidé de m’enfuir avec son épée sacrée. J’ai fait route jusqu’à la cathédrale Sainte-Croix et ait utilisé ses secrets pour la dissimulé aux yeux du monde, avant de partir loin. J’ignore encore où ma route s’arrêtera mais si quelqu’un voulait un jour retrouver cette épée, sache que seuls les plus malins et les plus audacieux pourront avoir une chance, je m’en suis assuré. La clé que j’ai avec moi marque le début des épreuves."
+msgstr "To you who read this diary and who you are: pray for my soul. Today took place the execution of Lady Jeanne and I witnessed this infamy. Although she was judged and convicted of heresy, she remained worthy to the end and remorseful, unable to let her possessions return to disbelievers, I decided to run away with her sacred sword. I traveled to the Cathedral of the Holy Cross and used its secrets to conceal it from the eyes of the world, before leaving. I still don’t know where my road will end, but if anyone ever wanted to find that sword, know that only the smartest and boldest can have a chance, I made sure. The key I have with me marks the beginning of the trials."
+
+msgid "Journal de l'autel"
+msgstr "Diary of the altar"
+
+msgid "Le journal trouvé près de l'autel."
+msgstr "The diary found by the altar."
+
+msgid "À toi qui lis ce journal et qui que tu sois : tu as terminé toutes les épreuves de l’épée de Jeanne d’Arc. Cet artefact légendaire est désormais tient, fait en bon usage et honore la mémoire de sa noble détentrice originelle."
+msgstr "To you who read this diary and who you are: you have finished all the tests of the sword of Joan of Arc. This legendary artifact is now holding, making good use of and honouring the memory of its original noble keeper."
+
+msgid "Journal de la statue"
+msgstr "Diary of the statue"
+
+msgid "Le journal trouvé près de la statue."
+msgstr "The diary found near the statue."
+
+msgid "À toi qui lis ce journal et qui que tu sois : tu as trouvé la troisième épreuve de l’épée de Jeanne d’Arc. Les barrières qui mènent à la dernière épreuve se sont abaissées. Tu devras maintenant prouver ta capacité d’analyse et trouver le lien entre les deux statues."
+msgstr "To you who read this diary and who you are: you have found the third proof of the sword of Joan of Arc. The barriers that lead to the final test have lowered. You will now have to prove your analytical ability and find the connection between the two statues."
+
+msgid "Journal de la salle secrète"
+msgstr "Diary of the secret room"
+
+msgid "Le journal trouvé dans la salle secrète."
+msgstr "The diary found in the secret room."
+
+msgid "À toi qui lis ce journal et qui que tu sois : tu as trouvé la deuxième épreuve de l’épée de Jeanne d’Arc. Félicitations pour avoir prouvé ton esprit de déduction avec l'énigme précédente. Cette énigme-ci servira à prouver ton esprit logique : deux tonneaux adjacents ne peuvent être de la même couleur."
+msgstr "To you who read this diary and who you are: you have found the second proof of the sword of Joan of Arc. Congratulations on proving your mind of deduction with the previous riddle. This riddle will serve to prove your logical mind: two adjacent barrels cannot be of the same color."
+
+msgid "Statue de l'ange"
+msgstr "Statue of the angel"
+
+msgid "Une statue d'ange."
+msgstr "A statue of an angel"
+
+msgid "Parler"
+msgstr "Talk"
+
+msgid "Ouvrir"
+msgstr "Open"
+
+msgid "Journal du coffre"
+msgstr "Chest's Diary"
+
+msgid "Le journal trouvé dans le coffre."
+msgstr "The diary found in the chest."
+
+msgid "À toi qui lis ce journal et qui que tu sois : tu as trouvé la première épreuve de l’épée de Jeanne d’Arc. Je l’ai cachée au sein de cette cathédrale, à l’abri du regard des hérétiques pour que jamais elle ne tombe entre de mauvaises mains. Ces épreuves serviront à prouver ta foi. La suite se trouve à Ephèse, où Saint-Paul prêcha la gloire du Seigneur. L’ordre est la clé."
+msgstr "To you who read this diary and who you are: you have found the first proof of the sword of Joan of Arc. I hid it in this cathedral, away from the eyes of heretics so that it would never fall into the wrong hands. These trials will prove your faith. The rest is in Ephesus, where Saint Paul preached the glory of the Lord. Order is the key."
+
+msgid "Une statue d'ange. Elle est la clé d'une énigme."
+msgstr "An angel statue. It is the key to a riddle."
+
+msgid "Le journal trouvé proche de l'autel."
+msgstr "The diary found near the altar."
+
+msgid "La cathédrale Sainte-Croix d’Orléans."
+msgstr "The Cathedral of the Holy Cross of Orleans."
+
+msgid "Billy Storien"
+msgstr "Billy Storien"
+
+msgid "CATHEQUEST"
+msgstr "CATHEQUEST"
+
+msgid "Après des mois de recherches, j’avais enfin découvert que c’était bien ici que se cachait un artefact inestimable pour n’importe quel historien, dissimulé de tous : l’épée de Jeanne d’Arc."
+msgstr "After months of research, I had finally discovered that it was here that was hidden an invaluable artifact for any historian, hidden from all: the sword of Joan of Arc."
+
+msgid "On raconte qu’elle a été bénie par Dieu lui-même, mais moi je m’en fichais. Je voulais juste retrouver cet objet mythique pour la renommée."
+msgstr "It is said that she was blessed by God himself, but I didn’t care. I just wanted to find this mythical object for fame."
+
+msgid "Surtout après tous les efforts décuplés pour la retrouver : originaire de cette ville, les histoires sur La Pucelle m’avait toujours fasciné."
+msgstr "Especially after all the efforts to find her: coming from this city, the stories about The Maid had always fascinated me."
+
+msgid "Une fois devenu docteur en histoire, j’avais pu réunir les fonds nécessaires pour ma première expédition et retrouver cet artefact que je poursuivai depuis ma tendre enfance."
+msgstr "Once I became a doctor of history, I was able to raise the necessary funds for my first expedition and find this artifact that I had been pursuing since I was a child."
+
+msgid "Mes recherches m’avaient mené aux quatre coins de la France et c’est dans une église d’un petit village que j’avais retrouvé le journal du père Jérôme Bizot ayant assisté à l’exécution de Jeanne d’Arc."
+msgstr "My research had led me to the four corners of France and it was in a church in a small village that I found the diary of Father Jérôme Bizot who attended the execution of Jeanne d'Arc."
+
+msgid "Celui-ci avait ensuite caché l’épée de Jeanne d’Arc dans la cathédrale avant de s’exiler d’Orléans. J’avais aussi récupéré une clef dans les affaires du père Jérôme qui devait me mener à l’épée."
+msgstr "He then hid Joan of Arc’s sword in the cathedral before exiled from Orleans. I had also recovered a key from the business of Father Jerome, who was to lead me to the sword."
+
+msgid "Pour mener tranquillement mon enquête, j’avais réussi à avoir une clef de l’entrée de la cathédrale pour y aller hors de heures d’ouverture."
+msgstr "To quietly conduct my investigation, I had managed to have a key to the entrance of the cathedral to go there out of opening hours."
+
+msgid "Archonte Alexandre"
+msgstr "Archonte Alexandre"
+
+msgid "(Espace) pour passer"
+msgstr "(Spacebar) to pass"
+
+msgid "L'épée de Jeanne"
+msgstr "The sword of Joan"
+
+msgid "L'épée de Jeanne d'Arc"
+msgstr "The sword of Joan of Arc"
